@@ -6,10 +6,10 @@
       <description>Correções de bugs e melhorias.</description>
       <pubDate>Sat, 06 Apr 2026 12:00:00 GMT</pubDate>
       <enclosure
-        url="https://seusite.com/releases/Alterador_Installer_1.2.exe"
-        sparkle:version="1.2.0"
-        length="12345678"
-        type="application/octet-stream" />
+      url="https://raw.githubusercontent.com/guilhermetairaleme/alterador/main/releases/Alterador_Installer_1.2.exe"
+      sparkle:version="1.2.0"
+      length="12345678"
+      type="application/octet-stream" />
     </item>
   </channel>
 </rss>
